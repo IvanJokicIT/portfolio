@@ -239,7 +239,7 @@ function portfolioComponent () {
   }
 
   function openNewTab() {
-	   var url = ""
+	   var url = "https://ivanjokicit.github.io/quiz/"
 	   var win = window.open(url, '_blank');
 	  win.focus();
   }
